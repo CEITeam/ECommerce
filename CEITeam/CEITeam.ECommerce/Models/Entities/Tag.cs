@@ -16,7 +16,7 @@ namespace CEITeam.ECommerce.Models
 
         #region Navigation Properties
         ////updated ------12/4---------
-        //public virtual List<ProductTag> ProductsTag { get; set; }
+        public virtual List<ProductTag> ProductsTag { get; set; }
         #endregion
     }
 }

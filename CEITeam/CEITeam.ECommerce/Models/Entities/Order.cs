@@ -9,17 +9,23 @@ namespace CEITeam.ECommerce.Models
 {
     public class Order
     {
-        [Range(1,100)]
+        [Range(1, 100)]
         public int Quantity { get; set; }
 
-        #region Navigation Property
-        //[ForeignKey("Product")]
-        //public int Fk_ProductId { get; set; }
-        //public virtual Product Product { get; set; }
+        public DateTime OrderedDate { get; set; }
 
-        //[ForeignKey("Customer")]
-        //public int Fk_CustomerId { get; set; }
-        //public virtual Customer Customer { get; set; }
+        #region Navigation Property
+        [Key]
+        [Column(Order = 1)]
+        [ForeignKey("Product")]
+        public int Fk_ProductId { get; set; }
+        public virtual Product Product { get; set; }
+
+        [Key]
+        [Column(Order = 2)]
+        [ForeignKey("Customer")]
+        public int Fk_CustomerId { get; set; }
+        public virtual Customer Customer { get; set; }
         #endregion
 
 

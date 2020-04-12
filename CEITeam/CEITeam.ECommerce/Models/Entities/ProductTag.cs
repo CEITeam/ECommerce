@@ -11,17 +11,17 @@ namespace CEITeam.ECommerce.Models
     {
 
         #region Navigation Properties
-        //[Key]
-        //[Column(Order =1)]
-        //[ForeignKey("Product")]
-        //public int Fk_ProductId { get; set; }
-        //public virtual Product Product { get; set; }
+        [Key]
+        [Column(Order = 1)]
+        [ForeignKey("Product")]
+        public int Fk_ProductId { get; set; }
+        public virtual Product Product { get; set; }
 
-        //[Key]
-        //[Column(Order =2)]
-        //[ForeignKey("Tag")]
-        //public int Fk_TagtId { get; set; }
-        //public virtual Tag Tag { get; set; }
+        [Key]
+        [Column(Order = 2)]
+        [ForeignKey("Tag")]
+        public int Fk_TagtId { get; set; }
+        public virtual Tag Tag { get; set; }
         #endregion
     }
 }

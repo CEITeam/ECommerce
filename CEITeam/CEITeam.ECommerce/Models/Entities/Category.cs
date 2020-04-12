@@ -15,7 +15,7 @@ namespace CEITeam.ECommerce.Models
         public string Name { get; set; }
 
         #region Navigation Properties
-        //public virtual List<Product> Products { get; set; }
+        public virtual List<Product> Products { get; set; }
         #endregion
     }
 }

@@ -45,18 +45,18 @@ namespace CEITeam.ECommerce.Models
         public string ImageUrl { get; set; }
 
         #region Navigation Properties
-        //[ForeignKey("Category")]
-        //public int Fk_CategoryId { get; set; }
-        //public virtual Category Category { get; set; }
+        [ForeignKey("Category")]
+        public int Fk_CategoryId { get; set; }
+        public virtual Category Category { get; set; }
 
-        //[ForeignKey("Brand")]
-        //public int? Fk_BrandId { get; set; }
-        //public virtual Brand Brand { get; set; }
+        [ForeignKey("Brand")]
+        public int? Fk_BrandId { get; set; }
+        public virtual Brand Brand { get; set; }
 
         ////---------Updated 12/4 --------
-        //public virtual List<Order> Orders { get; set; }
+        public virtual List<Order> Orders { get; set; }
 
-        //public virtual List<ProductTag> ProductTags { get; set; }
+        public virtual List<ProductTag> ProductTags { get; set; }
         #endregion
 
     }

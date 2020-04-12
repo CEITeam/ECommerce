@@ -22,11 +22,11 @@ namespace CEITeam.ECommerce.Models
 
         //#region Navigation Property
         ////-------Upadated 12/4/2020 ----------
-        //[ForeignKey("ApplicationUser")]
-        //public string Fk_ApplicationUserId { get; set; }
-        //public virtual ApplicationUser ApplicationUser { get; set; }
+        [ForeignKey("ApplicationUser")]
+        public string Fk_ApplicationUserId { get; set; }
+        public virtual ApplicationUser ApplicationUser { get; set; }
 
-        //public virtual List<Order> Orders { get; set; }
+        public virtual List<Order> Orders { get; set; }
         //#endregion
     }
 }
