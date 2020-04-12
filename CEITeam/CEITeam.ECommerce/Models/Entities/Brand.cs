@@ -20,6 +20,11 @@ namespace CEITeam.ECommerce.Models
 
         #region Navigation Properties
         //public virtual List<Product> Products { get; set; }
+
+        ////------Updated 12/4/2020------
+        //[ForeignKey("ApplicationUser")]
+        //public string Fk_ApplicationUserId { get; set; }
+        //public virtual ApplicationUser ApplicationUser { get; set; }
         #endregion
     }
 }
