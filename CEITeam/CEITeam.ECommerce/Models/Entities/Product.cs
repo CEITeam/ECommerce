@@ -52,6 +52,11 @@ namespace CEITeam.ECommerce.Models
         //[ForeignKey("Brand")]
         //public int? Fk_BrandId { get; set; }
         //public virtual Brand Brand { get; set; }
+
+        ////---------Updated 12/4 --------
+        //public virtual List<Order> Orders { get; set; }
+
+        //public virtual List<ProductTag> ProductTags { get; set; }
         #endregion
 
     }
