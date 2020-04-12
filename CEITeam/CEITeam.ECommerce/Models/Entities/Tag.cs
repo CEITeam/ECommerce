@@ -13,5 +13,10 @@ namespace CEITeam.ECommerce.Models
         [Required]
         [MaxLength(100)]
         public string Name { get; set; }
+
+        #region Navigation Properties
+        ////updated ------12/4---------
+        //public virtual List<ProductTag> ProductsTag { get; set; }
+        #endregion
     }
 }
