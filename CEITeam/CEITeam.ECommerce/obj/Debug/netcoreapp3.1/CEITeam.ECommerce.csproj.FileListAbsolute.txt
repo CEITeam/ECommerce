@@ -79,3 +79,4 @@ D:\CEI\CEI40\Software Development Studio\ASP.NET Core\Project\ECommerce\CEITeam\
 D:\CEI\CEI40\Software Development Studio\ASP.NET Core\Project\ECommerce\CEITeam\CEITeam.ECommerce\obj\Debug\netcoreapp3.1\CEITeam.ECommerce.csproj.CopyComplete
 D:\CEI\CEI40\Software Development Studio\ASP.NET Core\Project\ECommerce\CEITeam\CEITeam.ECommerce\obj\Debug\netcoreapp3.1\CEITeam.ECommerce.dll
 D:\CEI\CEI40\Software Development Studio\ASP.NET Core\Project\ECommerce\CEITeam\CEITeam.ECommerce\obj\Debug\netcoreapp3.1\CEITeam.ECommerce.pdb
+D:\CEI\CEI40\Software Development Studio\ASP.NET Core\Project\ECommerce\CEITeam\CEITeam.ECommerce\obj\Debug\netcoreapp3.1\CEITeam.ECommerce.csprojAssemblyReference.cache
