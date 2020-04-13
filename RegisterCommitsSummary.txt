@@ -1,0 +1,4 @@
+viewModels=>BrandInputModel , CustomerInpuModel
+Site.js => to toggle between forms
+Adding managers as properties in both IUnitOfWork & UnitOfWork
+Register Razor Page //Added new Scfolded item => add identity
