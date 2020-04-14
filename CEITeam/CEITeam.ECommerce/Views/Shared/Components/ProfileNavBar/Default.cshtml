@@ -1,0 +1,28 @@
+﻿
+@model ApplicationUser
+<ul class="list list--hr list--hr-separator">
+    <li class="list__item">
+        <span class="info">
+            @* <!-- icon --> *@
+            <i class="info__icon far fa-dot-circle"></i>
+            @* <!-- info --> *@
+            <span class="info__data">@Model.Address</span>
+        </span>
+    </li>
+    <li class="list__item">
+        <a href="#" class="info">
+            @* <!-- icon --> *@
+            <i class="info__icon fab fa-whatsapp"></i>
+            @* <!-- info --> *@
+            <span class="info__data">@Model.PhoneNumber</span>
+        </a>
+    </li>
+    <li class="list__item">
+        <a href="#" class="info">
+            @* <!-- icon --> *@
+            <i class="info__icon far fa-envelope"></i>
+            @* <!-- info --> *@
+            <span class="info__data">@Model.Email</span>
+        </a>
+    </li>
+</ul>
