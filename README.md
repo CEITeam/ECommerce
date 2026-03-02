@@ -50,7 +50,13 @@ In this collaborative project, I focused on:
 Developed by **CEITeam** as part of our technical training at ITI. This project highlights our ability to use **Git/GitHub** for version control and team-based development workflows.
 
 ---
+
 ### 🤝 Connect with Me
+If you're interested in Software Engineering, BIM Automation, or AEC Informatics, let's connect:
+
 * [LinkedIn](https://linkedin.com/in/agaabdelgawad)
 * [YouTube Channel](https://youtube.com/c/AhmedGamalAbdelGawad)
 * [GitHub Profile](https://github.com/agaabdelgawad)
+
+---
+*If you find these scripts helpful for your learning journey, feel free to give this repo a ⭐!*
