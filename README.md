@@ -3,9 +3,10 @@
 [![Framework](https://img.shields.io/badge/.NET%20Core-512BD4.svg?style=flat&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
 [![Database](https://img.shields.io/badge/SQL%20Server-CC2927.svg?style=flat&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server/)
 [![Architecture](https://img.shields.io/badge/Architecture-Clean%20Architecture-blue.svg)](#)
+[![Education](https://img.shields.io/badge/ITI-Diploma%20Project-orange.svg)](https://iti.gov.eg/)
 
 ### 📝 Description
-A robust, full-stack E-commerce platform designed with an emphasis on **Scalability** and **Maintainability**. This project was developed as a collaborative effort within the **CEITeam**, demonstrating professional software engineering practices including **Clean Architecture**, **SOLID principles**, and **Design Patterns**.
+A robust, full-stack E-commerce platform designed with an emphasis on **Scalability** and **Maintainability**. This project was developed as a collaborative effort within the **CEITeam** as a final course project during the **Civil Engineering Informatics Diploma at ITI (Information Technology Institute)**, demonstrating professional software engineering practices including **Clean Architecture**, **SOLID principles**, and **Design Patterns**.
 
 ---
 
@@ -33,9 +34,9 @@ The system follows a decoupled architecture to ensure separation of concerns:
 
 ### 🚀 My Contributions (Key Highlights)
 In this collaborative project, I focused on:
-* Architecting and implementing [Mention specific module, e.g., the Cart logic or Identity system].
+* Contributing to the core architecture and ensuring the implementation of **SOLID principles**.
 * Designing the Database Schema and ensuring data integrity through EF Core Migrations.
-* Applying **SOLID principles** to ensure the codebase remains testable and extensible.
+* Collaborating with team members to deliver a clean, testable, and extensible codebase.
 
 ### ⚙️ Getting Started
 1.  Clone the repository.
@@ -46,7 +47,7 @@ In this collaborative project, I focused on:
 ---
 
 ### 🤝 Team Collaboration
-Developed by **CEITeam**. This project highlights our ability to use **Git/GitHub** for version control and team-based development workflows.
+Developed by **CEITeam** as part of our technical training at ITI. This project highlights our ability to use **Git/GitHub** for version control and team-based development workflows.
 
 ---
 ### 🤝 Connect with Me
