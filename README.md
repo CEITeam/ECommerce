@@ -52,4 +52,5 @@ Developed by **CEITeam** as part of our technical training at ITI. This project 
 ---
 ### 🤝 Connect with Me
 * [LinkedIn](https://linkedin.com/in/agaabdelgawad)
+* [YouTube Channel](https://youtube.com/c/AhmedGamalAbdelGawad)
 * [GitHub Profile](https://github.com/agaabdelgawad)
