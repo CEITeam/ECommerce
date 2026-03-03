@@ -55,7 +55,7 @@ Developed by **CEITeam** as part of our technical training at ITI. This project 
 If you're interested in Software Engineering, BIM Automation, or AEC Informatics, let's connect:
 
 * [LinkedIn](https://linkedin.com/in/agaabdelgawad)
-* [YouTube Channel](https://youtube.com/c/AhmedGamalAbdelGawad)
+* [YouTube Channel](https://youtube.com/@agaabdelgawad)
 * [GitHub Profile](https://github.com/agaabdelgawad)
 
 ---
